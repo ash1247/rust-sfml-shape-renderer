@@ -1,0 +1,8 @@
+window=800x600
+font=./resources/arial.ttf
+shape=circle cgreen 100 100 -0.03 0.02 0 255 0 50
+shape=circle cblue 200 200 0.02 0.04 0 0 255 100
+shape=circle cpurple 300 300 -0.02 -0.01 255 0 255 75
+shape=rectangle rred 200 200 0.01 0.15 255 0 0 50 25
+shape=rectangle rgray 300 250 -0.02 0.02 100 100 100 50 100
+shape=rectangle rteal 25 100 -0.02 -0.02 0 255 255 100 100
